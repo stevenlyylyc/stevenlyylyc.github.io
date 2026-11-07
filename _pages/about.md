@@ -29,23 +29,24 @@ I look forward to academic discussions and research collaborations.
 
 
 # 🔥 News
-- *2026.04*: One first-author paper accepted by CAAI Transactions on Intelligent Systems (CSCD, Peking University Core Journal). 
+- *2026.04*: One paper published as the first student author in CAAI Transactions on Intelligent Systems (CSCD, Peking University Core Journal). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TIS 2026</div><img src='images/500x300.png' alt="Paper Overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Fine-tuned control of AI image generation: a comparative study of structured and unstructured prompts and lightweight model fine-tuning](https://doi.org/10.11992/tis.202509016)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Wei Zhang, **Yayuan Luo** (First Student Author)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*CAAI Transactions on Intelligent Systems*, 2026, 21(4): 908–918. (CSCD, Peking University Core Journal)
+[**Paper**](https://doi.org/10.11992/tis.202509016)
+- Investigates fine-grained control of AI-generated images through structured prompts and LoRA-based lightweight fine-tuning.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
