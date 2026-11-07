@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yayuan Luo"
-  avatar           : "images/OB.png"
+  avatar           : "images/my-photo.jpg"
   bio              : "Graduate Student"
   location         : " China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Yayuan Luo" # e.g., "github username"
+  github           : "yayuanluolyy" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
