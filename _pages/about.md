@@ -33,7 +33,7 @@ I look forward to academic discussions and research collaborations.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TIS 2026</div><img src='images/500x300.png' alt="Paper Overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TIS 2026</div><img src='images/paper1.png' alt="Paper Overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-tuned control of AI image generation: a comparative study of structured and unstructured prompts and lightweight model fine-tuning](https://doi.org/10.11992/tis.202509016)
