@@ -40,8 +40,10 @@ I look forward to academic discussions and research collaborations.
 
 Wei Zhang, **Yayuan Luo** (First Student Author)
 
-*CAAI Transactions on Intelligent Systems*, 2026, 21(4): 908–918. (CSCD, Peking University Core Journal)
+*CAAI Transactions on Intelligent Systems*, 2026, 21(4): 908–918 (CSCD, Peking University Core Journal)
+
 [**Paper**](https://doi.org/10.11992/tis.202509016)
+
 - Investigates fine-grained control of AI-generated images through structured prompts and LoRA-based lightweight fine-tuning.
 
 </div>
