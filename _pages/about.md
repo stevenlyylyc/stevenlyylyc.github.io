@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
 # Welcome!
 
 I have a strong interest in AI-Generated Content (AIGC), Embodied AI, Medical AI, and Brain-Inspired AI.
@@ -26,8 +25,7 @@ In the field of artificial intelligence, I am particularly interested in the dev
 
 Looking ahead, I plan to pursue research in Medical AI and Brain-Inspired AI, with a particular focus on the intersection of computational neuroscience and artificial intelligence. By drawing on insights from computational neuroscience into the brain's mechanisms of information processing, learning, and cognition, I hope to explore novel brain-inspired models and learning methods.
 
-I remain curious and enthusiastic about exploring cutting-edge scientific questions. I look forward to engaging in academic discussions and collaborations with scholars, researchers, and like-minded peers from diverse fields, jointly exploring innovative and challenging research problems, and broadening my research horizons through intellectual exchange and interdisciplinary collaboration.
-
+I look forward to academic discussions and research collaborations.
 
 
 # 🔥 News
