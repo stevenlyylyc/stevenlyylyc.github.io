@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yayuan Luo's Homepage"
+title                    : "Yayuan Luo(罗亚远)- Homepage"
 description              : "Research Interests:<br>• Efficient AIGC<br>• Embodied AI<br>• Medical Imaging and Medical Image Analysis<br>• NeuroAI "
 repository               : "stevenlyylyc/stevenlyylyc.github.io"
 google_scholar_stats_use_cdn : true
