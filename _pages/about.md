@@ -19,13 +19,13 @@ redirect_from:
 
 # Welcome!
 
-I have a strong interest in AI-Generated Content (AIGC), Embodied AI, Medical AI, and Brain-Inspired AI.
+My research interests mainly focus on **Efficient AIGC**, **Embodied AI**, **Medical AI**, and **Brain-Inspired AI**.
 
-In the field of artificial intelligence, I am particularly interested in the development and applications of generative models, multimodal perception, information fusion, and interaction. I aim to further explore the potential of AI in perception in complex environments, intelligent decision-making, and cross-modal understanding.
+In the field of artificial intelligence, I am particularly interested in the development and applications of **generative models**, **multimodal perception**, **information fusion**, and **interaction**. I aim to further explore the potential of AI in perception in complex environments, intelligent decision-making, and cross-modal understanding.
 
-Looking ahead, I plan to pursue research in Medical AI and Brain-Inspired AI, with a particular focus on the intersection of computational neuroscience and artificial intelligence. By drawing on insights from computational neuroscience into the brain's mechanisms of information processing, learning, and cognition, I hope to explore novel brain-inspired models and learning methods.
+Looking ahead, I plan to pursue research in **Medical AI** and **Brain-Inspired AI**, with a particular focus on the intersection of **computational neuroscience** and artificial intelligence. By drawing on insights from computational neuroscience into the brain's mechanisms of information processing, learning, and cognition, I hope to explore novel brain-inspired models and learning methods.
 
-I look forward to academic discussions and research collaborations.
+<span style="color: red;">✨ I'm always open to all kinds of cooperation and discussion.</span> I am currently **seeking internship opportunities**.
 
 
 # 🔥 News
@@ -56,7 +56,9 @@ Wei Zhang, **Yayuan Luo** (First Student Author)
 
 # 📖 Educations
 
-- *2023.09 - 2027.07*, **Liaoning Technical University**，School of Intelligent Science and Engineering，B.Eng. in Software Engineering.
+- *2027.09 - 2030.07 (expected)*, **University of Electronic Science and Technology of China (UESTC)**, School of Life Science and Technology, M.Eng. in Biomedical Engineering.
+
+- *2023.09 - 2027.07 (expected)*, **Liaoning Technical University（LNTU）**，School of Intelligent Science and Engineering，B.Eng. in Software Engineering.
 
 # 💬 Invited Talks
 <!--
